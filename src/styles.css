@@ -105,7 +105,7 @@ button:disabled {
 
 .fancy-button i.material-icons {
   color: #1976d2;
-  padding-right: 55px;
+  padding-right: 15px;
 }
 
 /* Top Bar */
@@ -140,6 +140,21 @@ app-top-bar h1 {
   margin-bottom: 8px;
   border-radius: 2px;
   background-color: #eeeeee;
+}
+
+/* TESTE */
+
+.title {
+  font-size: 16px;
+  font-weight: 20px;
+  font-family: Roboto;
+  color: chocolate;
+}
+
+.texto{
+  font-size: 10px;
+  font-family: Roboto;
+  font-weight: 200;
 }
 
 /*
